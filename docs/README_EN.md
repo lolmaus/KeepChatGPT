@@ -123,7 +123,7 @@ The preferred browsers are ```Chrome```, ```Firefox```, ```Edge```, and other br
 
 1. The preferred browser is ```Safari```, other browsers are limited by Apple's policy and rarely support JS plug-ins;
 2. Install the ```Stay``` browser extension app, which can be installed from [App Store](https://apps.apple.com/app/id1591620171)；
-3. Refer to [Stay official website] (<https://github.com/shenruisi/Stay>) for instructions;
+3. Refer to [Stay official website](<https://github.com/shenruisi/Stay>) for instructions;
 4. Install ```KeepChatGPT``` plugin, you can choose a channel to install from [installation channel](#installation-channel)；
 
 ## Installation Channel
